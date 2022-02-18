@@ -1,0 +1,4 @@
+[debug] [pmr_backend-test] Classpath dependencies List()
+[debug] [pmr_backend-test] Dependencies from configurations List(pmr_backend)
+[debug] Bloop wrote the configuration of project 'pmr_backend-test' to 'C:\Users\Eugen\Desktop\LASSE\pmr_backend\.bloop\pmr_backend-test.json'
+[success] Generated .bloop\pmr_backend-test.json
